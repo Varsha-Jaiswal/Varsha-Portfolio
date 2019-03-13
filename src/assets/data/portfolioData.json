@@ -1,0 +1,89 @@
+[{
+    "name": "Varsha Jaiswal",
+    "designation": "Software Developer Intern",
+    "description": "Always eager to learn and implement new technologies",
+    "dob": "01-10-1998",
+    "address": {
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Belthara Road, Ballia",
+        "pin-code": "221715"
+    },
+    "contact-details": {
+        "email": "shaluvarshajaiswal@gmail.com",
+        "mobile": "9056630211"
+    },
+    "websites": ["https://varsha-jaiswal.github.io"],
+    "social-media-profiles": [
+        {
+            "name": "Facebook",
+            "icon": "",
+            "url": "https://facebook.com/varsha2716"
+        },
+        {
+            "name": "GitHub",
+            "icon": "",
+            "url": "https://github.com/varsha-jaiswal"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "",
+            "url": "https://linkedin.com/in/varsha2716"
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Tech",
+            "year-of-passing": "2019",
+            "status": "Pursuing",
+            "college-name": "Lovely Professional University, Punjab",
+            "result": "9.28 CGPA"
+        },
+        {
+            "degree": "XII",
+            "year-of-passing": "2014",
+            "status": "Completed",
+            "school-name": "Rani Laxmi Bai Memorial School, Lucknow, Uttar Pradesh",
+            "board-name": "CBSE",
+            "result": "80%"
+            
+        },
+        {
+            "degree": "X",
+            "year-of-passing": "2012",
+            "status": "Completed",
+            "school-name": "Gyan Kunj Academy, Ballia, Uttar Pradesh",
+            "board-name": "CBSE",
+            "result": "10 CGPA"
+        }
+    ],
+    "additional-experiences": [
+        "Community Speaker at GDG and WTM Jalandhar for Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals",
+        "Delivered session on GitHub Fundamentals on behalf of Mozilla Developers Community, Jalandhar",
+        "Tech-Speaker at Facebook Developers Circle, Chandigarh",
+        "Student Mentor of C language in Peer to Peer Classes, Lovely Professional University",
+        "Organized 30+ meetups on behalf of GDG and WTM Jalandhar",
+        "Attended Machine Learning Study Jam for Machine Learning Crash Course"
+    ],
+    "seminars": [
+        "Participated in AMP Roadshow, organized by Google, Bengaluru", 
+        "Attended Google Search Summit’18 at Google, Gurugram", 
+        "Attended Google Developer Days’17, India"
+    ],
+    "awards": [
+        "Received PyTorch Nanodegree Scholarship from Facebook, 2018",
+        "Selected in Top 5 teams out of 20+ teams at Google India Hackathon, conducted in Google Hyderabad, 2018",
+        "Secured 6th Position out of 300+ teams at Rajasthan Hackathon 5.0, 2018",
+        "Honoured as “Most Innovative Team” in TIE Hackathon, organized by TIE Chandigarh, 2017", 
+        "First Runner Up out of 25 teams at SAP Hackathon, organized in Lovely Professional University, 2017", 
+        "Winner at Design Sprint competition, DevFest’15, Women Techmakers, organized by GDG Jalandhar, 2015"
+    ],
+    "certifications": [
+        "Google Analytics for Beginners and Advanced Google Analytics Certification from Google",
+        "Google Digital Unlocked Certification for Digital Marketing",
+        "How Google does Machine Learning Certification from Coursera",
+        "Certification of Learn Flutter - Beginners Course from Udemy",
+        "Certification of Drupal 8 Site Building from Udemy",
+        "Certification of PHP from Udemy"
+    ]
+}]

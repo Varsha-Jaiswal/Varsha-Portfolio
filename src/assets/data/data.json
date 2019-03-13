@@ -1,0 +1,16 @@
+{
+    "navbarLinks":[
+        {
+            "LinkName":"Home",
+            "Link":"/"
+        },
+        {
+            "LinkName":"About",
+            "Link":"/about"
+        },
+        {
+            "LinkName":"Contact",
+            "Link":"/contact"
+        }
+    ]
+}

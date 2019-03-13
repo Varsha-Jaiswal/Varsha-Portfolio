@@ -1,0 +1,89 @@
+{
+    "skills": [
+        {
+            "name":"HTML",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"CSS",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"JavaScript",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Bootstrap",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"ES6",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Vue.js",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Python",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"C++",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"C",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"MySql",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"DynamoDB",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Django",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Actions on Google",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Dialogflow",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Firebase",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"PynamoDB",
+            "image":"",
+            "rating": ""
+        },
+        {
+            "name":"Drupal",
+            "image":"",
+            "rating": ""
+        }
+    ]
+}
