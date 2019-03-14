@@ -8,14 +8,18 @@
         </div>
       </div>
     </div>
+    <AppFooter></AppFooter>
   </div>
+    
 </template>
 
 <script>
 import AppNavbar from '@/components/common/appNavbar'
+import AppFooter from '@/components/common/appFooter'
 export default {
   components:{
-    AppNavbar
+    AppNavbar,
+    AppFooter
   },
   data(){
     return{
