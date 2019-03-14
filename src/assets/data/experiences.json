@@ -1,11 +1,19 @@
 {
-    "experiences": [
+    "workexperiences": [
         {
             "name": "iB Hubs",
             "role": "Software Developer Intern",
             "duration": "Sep 2018 – Present",
             "description": "Working as a backend developer on Django framework and working as a FrontEnd Developer since February."
         },
+        {
+            "name": "OpenSense Labs",
+            "role": "Software Developer Intern",
+            "duration": "May 2017 – Aug 2017",
+            "description": "Worked as a software developer intern as a module developer for the open-source organization and developed CleanTaxonomy module (used to manage keywords) and Attendance module using Drupal8."
+        }
+    ],
+    "communityexperiences": [
         {
             "name": "Google Developers Group, Jalandhar",
             "role": "Organizer",
@@ -17,12 +25,6 @@
             "role": "Member",
             "duration": "Nov 2016 – Present",
             "description": "Organized events for “women in technology” all over Punjab Region on behalf of WTM Jalandhar"
-        },
-        {
-            "name": "OpenSense Labs",
-            "role": "Software Developer Intern",
-            "duration": "May 2017 – Aug 2017",
-            "description": "Worked as a software developer intern as a module developer for the open-source organization and developed CleanTaxonomy module (used to manage keywords) and Attendance module using Drupal8."
         }
     ]
 }

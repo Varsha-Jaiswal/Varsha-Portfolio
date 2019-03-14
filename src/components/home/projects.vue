@@ -5,7 +5,7 @@
         <br><hr>
         <div class="row" v-if="!showProjects">
             <div class="col-md-4" v-for="(item, i) in homePageProjects" :key="i"> 
-                <div class="card">
+                <div class="card m-2 btn-outline-primary">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
                             {{ item.name }}
@@ -13,7 +13,7 @@
                         <p class="card-text">
                             {{ item.description }}
                         </p>
-                        <a :href= "item.project-url">Show Project</a>
+                        <a :href="item.project-url">Show Project</a>
                     </div>
                 </div>
             </div>
@@ -21,7 +21,7 @@
         <button class="btn btn-primary" v-if="showButton" item-align="right" v-on:click="ShowProjects">See more</button>
         <div class="row" v-if="showProjects">
             <div class="col-md-4" v-for="(item, i) in projectsData.projects" :key="i"> 
-                <div class="card m-2">
+                <div class="card btn-outline-primary m-2">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
                             {{ item.name }}
@@ -29,7 +29,7 @@
                         <p class="card-text">
                             {{ item.description }}
                         </p>
-                        <a :href= "item.project-url">Show Project</a>
+                        <a :href="item.project-url">Show Project</a>
                     </div>
                 </div>
             </div>

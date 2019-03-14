@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
         <hr><br>  
-        <h3>Skills Set</h3>
+        <h2 class="text-center">Skills Set</h2>
         <br><hr>
         <div class="row">
             <div class="col-md-2" v-for="(item, i) in skillsData.skills" :key="i">
@@ -11,6 +11,7 @@
                 <div class="progress">
                 <div class="progress-bar" role="progressbar" v-bind:style="{ width: item.rating }" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
+                <br>
             </div>
         </div>
     </div>

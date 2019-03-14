@@ -3,32 +3,32 @@
         {
             "name":"HTML",
             "image":"https://cdn.worldvectorlogo.com/logos/html-5.svg",
-            "rating": "90%"
+            "rating": "85%"
         },
         {
             "name":"CSS",
             "image":"https://cdn.worldvectorlogo.com/logos/css3.svg",
-            "rating": "70%"
+            "rating": "75%"
         },
         {
             "name":"JavaScript",
             "image":"https://cdn.worldvectorlogo.com/logos/logo-javascript.svg",
-            "rating": "60%"
+            "rating": "88%"
         },
         {
             "name":"Bootstrap",
             "image":"https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
-            "rating": "80%"
+            "rating": "95%"
         },
         {
             "name":"ES6",
             "image":"",
-            "rating": "70%"
+            "rating": "80%"
         },
         {
             "name":"Vue.js",
             "image":"https://cdn.worldvectorlogo.com/logos/vue-9.svg",
-            "rating": "60%"
+            "rating": "75%"
         },
         {
             "name":"Python",
@@ -36,9 +36,14 @@
             "rating": "80%"
         },
         {
+            "name": "ReactJS",
+            "image": "",
+            "rating": "65%"
+        },
+        {
             "name":"C++",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/140px-ISO_C%2B%2B_Logo.svg.png",
-            "rating": "70%"
+            "rating": "83%"
         },
         {
             "name":"C",
@@ -48,37 +53,37 @@
         {
             "name":"MySql",
             "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1920px-MySQL.svg.png",
-            "rating": "60%"
+            "rating": "70%"
         },
         {
             "name":"DynamoDB",
             "image":"https://cdn-images-1.medium.com/max/1200/1*qp3u7D_FkGlFeBPUx7hcLg.png",
-            "rating": "50%"
+            "rating": "60%"
         },
         {
             "name":"Django",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png",
-            "rating": "50%"
+            "rating": "63%"
         },
         {
             "name":"Actions on Google",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
-            "rating": "80%"
+            "rating": "95%"
         },
         {
             "name":"Dialogflow",
             "image":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1280px-Dialogflow_logo.svg.png",
-            "rating": "70%"
+            "rating": "80%"
         },
         {
             "name":"Firebase",
             "image":"https://cdn.worldvectorlogo.com/logos/firebase-2.svg",
-            "rating": "60%"
+            "rating": "70%"
         },
         {
             "name":"PynamoDB",
             "image":"",
-            "rating": "42%"
+            "rating": "40%"
         },
         {
             "name":"Drupal",
@@ -88,7 +93,7 @@
         {
             "name":"GitHub",
             "image":"https://cdn.worldvectorlogo.com/logos/github-icon-1.svg",
-            "rating": "70%"
+            "rating": "65%"
         }
     ]
 }
