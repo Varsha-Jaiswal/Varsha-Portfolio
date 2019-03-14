@@ -3,92 +3,92 @@
         {
             "name":"HTML",
             "image":"https://cdn.worldvectorlogo.com/logos/html-5.svg",
-            "rating": ""
+            "rating": "90%"
         },
         {
             "name":"CSS",
             "image":"https://cdn.worldvectorlogo.com/logos/css3.svg",
-            "rating": ""
+            "rating": "70%"
         },
         {
             "name":"JavaScript",
             "image":"https://cdn.worldvectorlogo.com/logos/logo-javascript.svg",
-            "rating": ""
+            "rating": "60%"
         },
         {
             "name":"Bootstrap",
             "image":"https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
-            "rating": ""
+            "rating": "80%"
         },
         {
             "name":"ES6",
             "image":"",
-            "rating": ""
+            "rating": "70%"
         },
         {
             "name":"Vue.js",
             "image":"https://cdn.worldvectorlogo.com/logos/vue-9.svg",
-            "rating": ""
+            "rating": "60%"
         },
         {
             "name":"Python",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
-            "rating": ""
+            "rating": "80%"
         },
         {
             "name":"C++",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/140px-ISO_C%2B%2B_Logo.svg.png",
-            "rating": ""
+            "rating": "70%"
         },
         {
             "name":"C",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png",
-            "rating": ""
+            "rating": "90%"
         },
         {
             "name":"MySql",
             "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1920px-MySQL.svg.png",
-            "rating": ""
+            "rating": "60%"
         },
         {
             "name":"DynamoDB",
             "image":"https://cdn-images-1.medium.com/max/1200/1*qp3u7D_FkGlFeBPUx7hcLg.png",
-            "rating": ""
+            "rating": "50%"
         },
         {
             "name":"Django",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png",
-            "rating": ""
+            "rating": "50%"
         },
         {
             "name":"Actions on Google",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
-            "rating": ""
+            "rating": "80%"
         },
         {
             "name":"Dialogflow",
             "image":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1280px-Dialogflow_logo.svg.png",
-            "rating": ""
+            "rating": "70%"
         },
         {
             "name":"Firebase",
             "image":"https://cdn.worldvectorlogo.com/logos/firebase-2.svg",
-            "rating": ""
+            "rating": "60%"
         },
         {
             "name":"PynamoDB",
             "image":"",
-            "rating": ""
+            "rating": "42%"
         },
         {
             "name":"Drupal",
             "image":"https://www.drupal.org/files/drupal%208%20logo%20Stacked%20CMYK%20300.png",
-            "rating": ""
+            "rating": "50%"
         },
         {
             "name":"GitHub",
             "image":"https://cdn.worldvectorlogo.com/logos/github-icon-1.svg",
-            "rating": ""
+            "rating": "70%"
         }
     ]
 }
