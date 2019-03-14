@@ -1,15 +1,9 @@
 {
     "projects": [
         {
-            "name": "Stockpile Record",
-            "year": "2019",
-            "description": "Created a web app to list down the notes or comments of a user and show that whenever the user needs it. It also allows the user to delete the notes, if not needed. This project is designed using ReactJS, Bootstrap and deployed on Firebase and still in development phase.",
-            "project-url": "https://stockpile-record.firebaseapp.com"
-        },
-        {
             "name": "LineUp App",
             "year": "2019",
-            "description": "Designed a web application where user can list down the To-do items and can perform various filters and operations on the listed to-dos. This project is designed using ReactJS, Bootstrap and deployed on Firebase and still in development phase.",
+            "description": "Designed a web application where user can list down the To-do items and can perform various filters and operations on the listed to-dos. This project is designed using ReactJS, Bootstrap and deployed on Firebase.",
             "project-url": "https://my-lineups.firebaseapp.com"
         },
         {
@@ -25,13 +19,19 @@
             "project-url": "https://github-users-project.firebaseapp.com"
         },
         {
+            "name": "Stockpile Record",
+            "year": "2019",
+            "description": "Created a web app to list down the notes or comments of a user and show that whenever the user needs it. It also allows the user to delete the notes. This project is designed using ReactJS, Bootstrap and deployed on Firebase.",
+            "project-url": "https://stockpile-record.firebaseapp.com"
+        },
+        {
             "name": "Slot-Booking Application",
             "year": "2018",
             "description": "Developed the backend in Django for booking the slot of iB-Cricket application depending on the available slots in arcades. User can easily find the nearest arcades based on the current location using Google Maps API.",
             "project-url": "NA"
         },
         {
-            "name": "Google Cloud Next'18 Extended",
+            "name": "Google Cloud Next'18",
             "year": "2018",
             "description":" Designed and developed a web application for Cloud Next’18 event on behalf of GDG Jalandhar. It is a dynamic application using Firebase Auth and Firebase Real-time database for participant’s registration. It is a PWA made using HTML5, CSS, JavaScript, Bootstrap, AngularJS and MDG 2.0.",
             "project-url": "https://gdgjalandhar.com/e/next18"
