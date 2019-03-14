@@ -7,10 +7,10 @@
             <div class="col-md-2" v-for="(item, i) in skillsData.skills" :key="i">
                 <p class="text-muted">
                     {{ item.name }}
-                    <div class="progress">
-                    <div class="progress-bar" role="progressbar" v-bind:style="{ width: item.rating }" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
                 </p>
+                <div class="progress">
+                <div class="progress-bar" role="progressbar" v-bind:style="{ width: item.rating }" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
             </div>
         </div>
     </div>
