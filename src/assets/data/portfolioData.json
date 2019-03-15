@@ -15,21 +15,36 @@
         "mobile": "9056630211"
     },
     "websites": ["https://varsha-jaiswal.github.io"],
-    "social-media-profiles": [
+    "socialMediaProfiles": [
         {
             "name": "Facebook",
-            "icon": "",
-            "url": "https://facebook.com/varsha2716"
+            "icon": "fab fa-facebook-f",
+            "url": "https://facebook.com/varsha2716",
+            "btnClass": "btn-floating btn-lg btn-fb"
+        },
+        {
+            "name": "Twitter",
+            "icon": "fab fa-twitter",
+            "url": "https://twitter.com/varsha2716",
+            "btnClass": "btn-floating btn-lg btn-tw"
         },
         {
             "name": "GitHub",
-            "icon": "",
-            "url": "https://github.com/varsha-jaiswal"
+            "icon": "fab fa-github",
+            "url": "https://github.com/varsha-jaiswal",
+            "btnClass": "btn-floating btn-lg btn-git"            
         },
         {
             "name": "LinkedIn",
-            "icon": "",
-            "url": "https://linkedin.com/in/varsha2716"
+            "icon": "fab fa-linkedin-in",
+            "url": "https://linkedin.com/in/varsha2716",
+            "btnClass": "btn-floating btn-lg btn-li"
+        },
+        {
+            "name": "Email",
+            "icon": "fas fa-envelope",
+            "url": "mailto: shaluvarshajaiswal@gmail.com",
+            "btnClass": "btn-floating btn-lg email"
         }
     ],
     "education": [
@@ -58,7 +73,7 @@
             "result": "10 CGPA"
         }
     ],
-    "additional-experiences": [
+    "additionalExperiences": [
         "Community Speaker at GDG and WTM Jalandhar for Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals",
         "Delivered session on GitHub Fundamentals on behalf of Mozilla Developers Community, Jalandhar",
         "Tech-Speaker at Facebook Developers Circle, Chandigarh",
