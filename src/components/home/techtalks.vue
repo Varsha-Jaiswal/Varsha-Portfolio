@@ -4,15 +4,15 @@
         <h3>Tech Talks</h3>
         <br><hr>
         <div class="row" v-if="!showTalks">
-            <div class="col-md-4" v-for="(item, i) in homePageTalks" :key="i"> 
+            <div class="col-md-6" v-for="(item, i) in homePageTalks" :key="i"> 
                 <div class="card m-2 btn-outline-primary">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
-                            {{ item.name }}
+                            {{ item.title }}
                         </h3>
                         <p class="card-text">
-                            {{ item.event }}
-                            {{ item.year }}
+                            {{ item.event }}<br>
+                            {{ item.date }}
                         </p>
                     </div>
                 </div>
@@ -20,15 +20,15 @@
         </div>
         <button class="btn btn-primary" v-if="showButton" item-align="right" v-on:click="ShowTalks">See more</button>
         <div class="row" v-if="showTalks">
-            <div class="col-md-4" v-for="(item, i) in talksData.techtalks" :key="i"> 
+            <div class="col-md-6" v-for="(item, i) in talksData.techtalks" :key="i"> 
                 <div class="card btn-outline-primary m-2">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
-                            {{ item.name }}
+                            {{ item.title }}
                         </h3>
                         <p class="card-text">
-                            {{ item.event }}
-                            {{ item.year }}
+                            {{ item.event }}<br>
+                            {{ item.date }}
                         </p>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ export default {
             talksData,
             showTalks:false,
             showButton: true,
-            homePageTalks: talksData.techtalks.slice(0,3)
+            homePageTalks: talksData.techtalks.slice(0,4)
         }
     },
     methods: {
