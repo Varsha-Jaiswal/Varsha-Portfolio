@@ -1,10 +1,10 @@
 <template>
   <div class="home">
-    <HomeStartScreen @ShowGitHubData="showGitHubData=!showGitHubData"></HomeStartScreen>
-    <Github v-if="showGitHubData"></Github>
+    <HomeStartScreen></HomeStartScreen>
     <Experiences></Experiences>
     <Skills></Skills>
     <Projects></Projects>
+    <TechTalks></TechTalks>
   </div>
 </template>
 
@@ -15,6 +15,7 @@ import Experiences from '@/components/home/experiences'
 import Github from '@/components/home/github'
 import Skills from '@/components/home/skills'
 import Projects from '@/components/home/projects'
+import TechTalks from '@/components/home/techtalks'
 
 export default {
   name: 'home',
@@ -23,12 +24,8 @@ export default {
     Experiences,
     Github,
     Skills,
-    Projects
-  },
-  data() {
-    return {
-      showGitHubData: false
-    }
+    Projects,
+    TechTalks
   }
 }
 </script>
