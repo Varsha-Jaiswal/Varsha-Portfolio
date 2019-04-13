@@ -7,11 +7,7 @@
                 </h2>
                 <br><hr><br>
                 <p class="text-muted">{{ portfolioData.about }}</p>
-                <p class="text-muted">
-                    <i class="fab fa-github"></i> &nbsp;
-                    <i class="fab fa-linkedin-in"></i> &nbsp;
-                    <i class="fab fa-facebook-f"></i> &nbsp;
-                </p>
+                <SocialLinks :portfolioData='{portfolioData}'></SocialLinks>
                 <a href="../../assets/resume/Varsha_Resume.pdf" class="btn btn-outline-primary" download="Varsha_Resume.pdf">Download Resume</a>
             </div>
             <div class="col-md-5">
@@ -23,7 +19,12 @@
 
 <script>
 import portfolioData from '@/assets/data/portfolioData.json'
+import SocialLinks from '@/components/common/socialLinks.vue'
+
 export default {
+    components: {
+        SocialLinks
+    },
     data() {
         return {
             portfolioData

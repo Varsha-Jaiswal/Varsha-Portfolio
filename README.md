@@ -1,5 +1,7 @@
 # varsha-web-app
 
+Varsha's Portfolio designed using Vue.js, ES6, HTML, Material Design Bootstrap.
+
 ## Project setup
 ```
 npm install

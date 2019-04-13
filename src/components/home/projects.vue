@@ -13,7 +13,7 @@
                         <p class="card-text">
                             {{ item.description }}
                         </p>
-                        <a :href="item.project-url">Show Project</a>
+                        <a :href="item.projectUrl" target="_blank">Show Project</a>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                         <p class="card-text">
                             {{ item.description }}
                         </p>
-                        <a :href="item.project-url">Show Project</a>
+                        <a :href="item.projectUrl" target="_blank">Show Project</a>
                     </div>
                 </div>
             </div>
