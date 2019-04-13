@@ -63,7 +63,7 @@
         {
             "name": "CleanTaxonomy Module",
             "year": "2017",
-            "description": ". Designed a module using Drupal8 which can manage all the taxonomy terms in a website by providing services like edit, delete, rename and replace of the taxonomy terms to the administrator.",
+            "description": "Designed a module using Drupal8 which can manage all the taxonomy terms in a website by providing services like edit, delete, rename and replace of the taxonomy terms to the administrator.",
             "project-url": "https://github.com/varsha-jaiswal/CleanTaxonomy"
         },
         {
