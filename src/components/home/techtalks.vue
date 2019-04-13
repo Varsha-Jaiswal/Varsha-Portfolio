@@ -8,9 +8,11 @@
                 <div class="card m-2">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
-                            {{ item.title }}
+                           <span class="d-flex justify-content-between text-muted">
+                                {{ item.title }}
+                                <i class="fa fa-info-circle" v-on:click="TalkDetails"></i>
+                            </span>
                         </h3>
-                        <i class="fa fa-info-circle" aria-hidden="true"></i>
                         <p class="card-text">
                             {{ item.event }}<br>
                             {{ item.date }}
@@ -25,7 +27,10 @@
                 <div class="card m-2">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
-                            {{ item.title }}
+                            <span class="d-flex justify-content-between text-muted">
+                                {{ item.title }}
+                                <i class="fa fa-info-circle" v-on:click="TalkDetails"></i>
+                            </span>
                         </h3>
                         <p class="card-text">
                             {{ item.event }}<br>
@@ -55,6 +60,9 @@ export default {
         ShowTalks() {
             this.showTalks = !this.showTalks,
             this.showButton = !this.showButton
+        },
+        TalkDetails() {
+            
         }
     }
 }

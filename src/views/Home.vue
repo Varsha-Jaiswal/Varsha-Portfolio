@@ -12,7 +12,6 @@
 // @ is an alias to /src
 import HomeStartScreen from '@/components/home/homeStartScreen.vue'
 import Experiences from '@/components/home/experiences'
-import Github from '@/components/home/github'
 import Skills from '@/components/home/skills'
 import Projects from '@/components/home/projects'
 import TechTalks from '@/components/home/techtalks'
@@ -22,7 +21,6 @@ export default {
   components: {
     HomeStartScreen,
     Experiences,
-    Github,
     Skills,
     Projects,
     TechTalks
