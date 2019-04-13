@@ -5,11 +5,12 @@
         <br><hr>
         <div class="row" v-if="!showTalks">
             <div class="col-md-6" v-for="(item, i) in homePageTalks" :key="i"> 
-                <div class="card m-2 btn-outline-primary">
+                <div class="card m-2">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
                             {{ item.title }}
                         </h3>
+                        <i class="fa fa-info-circle" aria-hidden="true"></i>
                         <p class="card-text">
                             {{ item.event }}<br>
                             {{ item.date }}
@@ -21,7 +22,7 @@
         <button class="btn btn-primary" v-if="showButton" item-align="right" v-on:click="ShowTalks">See more</button>
         <div class="row" v-if="showTalks">
             <div class="col-md-6" v-for="(item, i) in talksData.techtalks" :key="i"> 
-                <div class="card btn-outline-primary m-2">
+                <div class="card m-2">
                     <div class="card-body">
                         <h3 class="card-title text-muted">
                             {{ item.title }}

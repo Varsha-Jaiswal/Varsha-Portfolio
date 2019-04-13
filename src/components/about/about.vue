@@ -8,7 +8,7 @@
                 <br><hr><br>
                 <p class="text-muted">{{ portfolioData.about }}</p><br>
                 <SocialLinks :portfolioData='{portfolioData}'></SocialLinks><br>
-                <a href="../../assets/resume/Varsha_Resume.pdf" class="btn btn-outline-primary" download="Varsha_Resume.pdf">Download Resume</a>
+                <a href="https://drive.google.com/file/d/14nnlVdbZw5S9s5Uajyn-n3jCblgweo6q/view?usp=sharing" class="btn btn-outline-primary">View Resume</a>
             </div>
             <div class="col-md-5">
                 <img src="../../assets/image/varsha.jpg" class="rounded-circle" width="50%" alt="" srcset="">
