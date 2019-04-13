@@ -1,18 +1,15 @@
 <template>
   <div class="workspace">
-    <Projects></Projects> 
-    <TechTalks></TechTalks>
+    <Workspace></Workspace> 
   </div>
 </template>
-<script>
-import Projects from '@/components/home/projects'
-import TechTalks from '@/components/home/techtalks'
 
+<script>
+import Workspace from '@/components/workspace/workspace'
 export default {
   name: 'workspace',
   components: {
-    Projects,
-    TechTalks
-  },  
+    Workspace
+  }
 }
 </script>
