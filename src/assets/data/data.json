@@ -9,8 +9,8 @@
             "Link":"/about"
         },
         {
-            "LinkName":"Contact",
-            "Link":"/contact"
+            "LinkName":"Workspace",
+            "Link":"/workspace"
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "techtalks": [
+        {
+            "name": "Talk Name",
+            "event": "Event Name",
+            "year": "Talk year"
+        },
+        {
+            "name": "Talk Name",
+            "event": "Event Name",
+            "year": "Talk year"
+        },
+        {
+            "name": "Talk Name",
+            "event": "Event Name",
+            "year": "Talk year"
+        },
+        {
+            "name": "Talk Name",
+            "event": "Event Name",
+            "year": "Talk year"
+        }
+    ]
+}
