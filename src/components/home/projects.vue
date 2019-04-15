@@ -1,15 +1,14 @@
 <template>
-    <div class="container-fluid">
-        <hr><br>  
-        <h3>Projects</h3>
-        <br><hr>
-        <div class="row">
-            <div class="col-md-4" v-for="(item, i) in homePageProjects" :key="i"> 
-                <div class="card m-2 btn-outline-primary">
+    <div class="container-fluid my-5">
+        <h3 class="h3-responsive text-muted"><i class="fab fa-autoprefixer"></i> Projects</h3>
+        <hr>
+        <div class="row mt-4">
+            <div class="col-md-4" v-for="(item, i) in homePageProjects" :key="i" > 
+                <div class="card m-1 z-depth-0" style="border:1px solid #bdbdbd ">
                     <div class="card-body">
-                        <h3 class="card-title text-muted">
+                        <h4 class="card-title text-muted h4-responsive">
                             {{ item.name }}
-                        </h3>
+                        </h4>
                         <p class="card-text">
                             {{ item.description }}
                         </p>
@@ -18,7 +17,7 @@
                 </div>
             </div>
         </div>
-        <router-link class="btn btn-outline-primary" to="workspace"> See More </router-link>
+        <router-link class="btn btn-outline-primary z-depth-0 btn-sm mt-3" to="workspace"> See More </router-link>
     </div>
 </template>
 

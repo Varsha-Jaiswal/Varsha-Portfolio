@@ -2,14 +2,14 @@
     <div class="container-fluid">
         <br><br>
         <div class="row">
-            <div class="col">
-                <h3 class="text-muted text-center">
-                    Work Experiences
+            <div class="col-md-6 col-12">
+                <h3 class="text-muted h3-responsive">
+                   <i class="fab fa-autoprefixer"></i> Work Experiences
                 </h3>
                 <div class="row" v-for="(item, i) in experiencesData.workexperiences" :key="i">
-                    <div class="card m-2">
+                    <div class="card m-0 z-depth-0">
                         <div class="card-body">
-                            <h4 class="card-title font-weight-bold text-muted" style="max-height:200">{{ item.name }}</h4>
+                            <h4 class="card-title font-weight-bold text-muted h4-responsive" style="max-height:200">{{ item.name }}</h4>
                             <hr>
                             <p>{{ item.role }} | {{ item.duration }}</p>
                             <p>{{ item.description }}</p>
@@ -17,14 +17,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
-                <h3 class="text-muted text-center">
-                    Community Experiences
+            <div class="col-md-6 col-12">
+                <h3 class="text-muted h3-responsive">
+                   <i class="fab fa-autoprefixer "></i> Community Experiences
                 </h3>
                 <div class="row" v-for="(item, i) in experiencesData.communityexperiences" :key="i">
-                    <div class="card m-2">
+                    <div class="card m-0 z-depth-0">
                         <div class="card-body">
-                            <h4 class="card-title font-weight-bold text-muted">{{ item.name }}</h4>
+                            <h4 class="card-title font-weight-bold text-muted h4-responsive">{{ item.name }}</h4>
                             <hr>
                             <p>{{ item.role }} | {{ item.duration }}</p>
                             <p>{{ item.description }}</p>

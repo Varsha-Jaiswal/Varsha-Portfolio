@@ -1,9 +1,9 @@
 <template>
-    <div class="container-fluid">
-        <hr><br>  
-        <h2 class="text-center">Skills Set</h2>
-        <br><hr>
-        <div class="row">
+    <div class="container-fluid my-5">
+        
+        <h3 class="h3-responsive text-muted"><i class="fab fa-autoprefixer"></i> Skills Set</h3>
+        <hr>
+        <div class="row mt-5">
             <div class="col-md-2" v-for="(item, i) in skillsData.skills" :key="i">
                 <p class="text-muted">
                     {{ item.name }}
