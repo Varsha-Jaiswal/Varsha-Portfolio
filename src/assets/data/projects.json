@@ -1,6 +1,12 @@
 {
     "projects": [
         {
+            "name": "NewsAir App",
+            "year": "2019",
+            "description": "A web application to get the news headlines from the news api. We can filter the news based on country and category. Also, the user can read the articles of his/her interest. The project is designed using Vue.js, Bootstrap and Firebase.",
+            "projectUrl": "https://news-air.firebaseapp.com"
+        },
+        {
             "name": "LineUp App",
             "year": "2019",
             "description": "Designed a web application where user can list down the To-do items and can perform various filters and operations on the listed to-dos. This project is designed using ReactJS, Bootstrap and deployed on Firebase.",
