@@ -1,6 +1,36 @@
 {
     "techtalks": [
         {
+            "title": "#IamRemarkable Workshop",
+            "event": "Google I/O'19 Extended",
+            "link": "https://www.meetup.com/GDG-Jalandhar/events/261312647/",
+            "venue": "Lovely Professional University, Jalandhar",
+            "products": [],
+            "description": "Talked why Self-branding is important and not about bragging. Also, held a group discussion session on #IamRemarkable.",
+            "organization": "Google Developers Group, Jalandhar",
+            "date": "23-06-2019"
+        },
+        {
+            "title": "Workshop",
+            "event": "Google I/O'19 Extended",
+            "link": "https://www.meetup.com/GDG-Jalandhar/events/261312647/",
+            "venue": "Lovely Professional University, Jalandhar",
+            "products": [],
+            "description": "Delievered talk on Basics of Actions on Google and DialogFlow with an introduction about how to make actions on Google Assistant.",
+            "organization": "Google Developers Group, Jalandhar",
+            "date": "23-06-2019"
+        },
+        {
+            "title": "#IamRemarkable Workshop",
+            "event": "Google Cloud Next'19 Extended",
+            "link": "https://www.meetup.com/GDG-Jalandhar/events/260638018/",
+            "venue": "CT Group of Institutions, Jalandhar",
+            "products": [],
+            "description": "Talked why Self-branding is important and not about bragging. Also, held a group discussion session on #IamRemarkable.",
+            "organization": "Google Developers Group, Jalandhar",
+            "date": "18-05-2019"
+        },
+        {
             "title": "Why I'm Remarkable?",
             "event": "International Women's Day Celebration",
             "link": "https://www.meetup.com/GDG-Jalandhar/events/259353071/",
