@@ -1,6 +1,12 @@
 {
     "projects": [
         {
+            "name": "DevFest Punjab App",
+            "year": "2019",
+            "description": "A web application for DevFest Punjab on behalf of GDG Jalandhar. It is dynamic web application and PWA created in Vue.js and also using HTML, CSS, JavaScript, etc.",
+            "projectUrl": "https://devfest-punjab.web.app"
+        },
+        {
             "name": "NewsAir App",
             "year": "2019",
             "description": "A web application to get the news headlines from the news api. We can filter the news based on country and category. Also, the user can read the articles of his/her interest. The project is designed using Vue.js, Bootstrap and Firebase.",
