@@ -1,16 +1,6 @@
 {
     "techtalks": [
         {
-            "title": "What's new in Actions On Google",
-            "event": "Google I/O'19 Extended",
-            "link": "https://www.meetup.com/GDG-Chandigarh/events/261473061/",
-            "venue": "Infosys Limited, Chandigarh",
-            "products": [],
-            "description": "Delievered talk on the latest updates of Google Assistant and Actions on Google.",
-            "organization": "Google Developers Group, Chandigarh",
-            "date": "29-06-2019"
-        },
-        {
             "title": "#IamRemarkable Workshop",
             "event": "Google I/O'19 Extended",
             "link": "https://www.meetup.com/GDG-Jalandhar/events/261312647/",
