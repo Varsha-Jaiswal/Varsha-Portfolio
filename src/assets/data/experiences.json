@@ -1,6 +1,13 @@
 {
     "workexperiences": [
         {
+            "name": "Edfora Infotech Pvt Ltd.",
+            "role": "Software Engineer",
+            "duration": "Jul 2019 – Present",
+            "description": "Working as a Software Engineer and contributing in the company's product, made in Angular."
+        
+        },
+        {
             "name": "iB Hubs",
             "role": "Software Developer Intern",
             "duration": "Sep 2018 – May 2019",
@@ -15,8 +22,20 @@
     ],
     "communityexperiences": [
         {
+            "name": "Women Techmakers, Jalandhar",
+            "role": "WTM Ambassador",
+            "duration": "Jun 2019 – Present",
+            "description": "Organized events for female developers and providing a platform to uplift them in the technical world, on behalf of WTM Jalandhar"
+        },
+        {
             "name": "Google Developers Group, Jalandhar",
             "role": "Co-Organizer",
+            "duration": "Feb 2018 – Present",
+            "description": "Organized various events all over Punjab on behalf of GDG Jalandhar and delivered technical sessions on Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals. Also, contributed in projects/web apps of GDG Jalandhar for the upcoming events."
+        },
+        {
+            "name": "Google Developers Group, Jalandhar",
+            "role": "Event Organizer",
             "duration": "Oct 2016 – Present",
             "description": "Organized various tech-talks and events all over Punjab on behalf of GDG Jalandhar and delivered technical sessions on Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals"
         },
