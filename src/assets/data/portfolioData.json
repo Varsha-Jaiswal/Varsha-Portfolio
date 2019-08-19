@@ -3,7 +3,7 @@
     "designation": "#IamRemarkable Facilitator | Co-Organizer , GDG Jalandhar | WTM Ambassador",
     "description": "A keen-learner and love to implement new technologies.",
     "about": "'Enthusiasm to Learn' defines me in a nutshell. Aiming towards the goal and keeping continuous effort to achieve the same is what I believe. I am girl who puts each step thinking about giving back to the society, by sharing the knowledge with everyone.",
-    "dob": "01-10-1998",
+    "dob": "01-10-1998 (O) / 27-11-1998",
     "address": {
         "country": "India",
         "state": "Uttar Pradesh",
@@ -53,7 +53,7 @@
             "year-of-passing": "2019",
             "status": "Completed",
             "college-name": "Lovely Professional University, Punjab",
-            "result": "9.28 CGPA"
+            "result": "9.34 CGPA"
         },
         {
             "degree": "XII",
@@ -74,6 +74,7 @@
         }
     ],
     "additionalExperiences": [
+        "#IamRemarkable Facilitator",
         "Community Speaker at GDG and WTM Jalandhar for Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals",
         "Delivered session on GitHub Fundamentals on behalf of Mozilla Developers Community, Jalandhar",
         "Tech-Speaker at Facebook Developers Circle, Chandigarh",
@@ -82,6 +83,7 @@
         "Attended Machine Learning Study Jam for Machine Learning Crash Course"
     ],
     "seminars": [
+        "Invited to attend India Community Summit, Bengaluru",
         "Participated in AMP Roadshow, organized by Google, Bengaluru", 
         "Attended Google Search Summit’18 at Google, Gurugram", 
         "Attended Google Developer Days’17, India"
