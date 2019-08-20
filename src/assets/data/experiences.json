@@ -2,48 +2,50 @@
     "workexperiences": [
         {
             "name": "Edfora Infotech Pvt Ltd.",
-            "role": "Software Engineer",
-            "duration": "Jul 2019 – Present",
-            "description": "Working as a Software Engineer and contributing in the company's product, made in Angular."
-        
+            "role1": "Software Engineer",
+            "duration1": "Jul 2019 – Present",
+            "description1": "Working as a Software Engineer and contributing in the company's product, made in Angular.",
+            "role2": "",
+            "duration2": "",
+            "description2": ""
         },
         {
             "name": "iB Hubs",
-            "role": "Software Developer Intern",
-            "duration": "Sep 2018 – May 2019",
-            "description": "Worked as a BackEnd Developer (Sept-Jan) on Django framework and then, worked as a FrontEnd Developer."
+            "role1": "Software Developer Intern",
+            "duration1": "Sep 2018 – May 2019",
+            "description1": "Worked as a BackEnd Developer (Sept-Jan) on Django framework and then, worked as a FrontEnd Developer.",
+            "role2": "",
+            "duration2": "",
+            "description2": ""
         },
         {
             "name": "OpenSense Labs",
-            "role": "Software Developer Intern",
-            "duration": "May 2017 – Aug 2017",
-            "description": "Worked as a Software Developer Intern (Module Developer) for the open-source organization and developed CleanTaxonomy module (used to manage keywords) and Attendance module using Drupal8."
+            "role1": "Software Developer Intern",
+            "duration1": "May 2017 – Aug 2017",
+            "description1": "Worked as a Software Developer Intern (Module Developer) for the open-source organization and developed CleanTaxonomy module (used to manage keywords) and Attendance module using Drupal8.",
+            "role2": "",
+            "duration2": "",
+            "description2": ""
         }
     ],
     "communityexperiences": [
         {
             "name": "Women Techmakers, Jalandhar",
-            "role": "WTM Ambassador",
-            "duration": "Jun 2019 – Present",
-            "description": "Organized events for female developers and providing a platform to uplift them in the technical world, on behalf of WTM Jalandhar"
+            "role1": "WTM Ambassador",
+            "duration1": "Jun 2019 – Present",
+            "description1": "Planned and organized events for female developers and providing a platform to uplift them in the technical world, on behalf of WTM Jalandhar.",
+            "role2": "Team Member",
+            "duration2": "Nov 2016 – Present",
+            "description2": "Organized and volunteered the events, specially for female developers and promoted diversity in the community and technical field."
         },
         {
             "name": "Google Developers Group, Jalandhar",
-            "role": "Co-Organizer",
-            "duration": "Feb 2018 – Present",
-            "description": "Organized various events all over Punjab on behalf of GDG Jalandhar and delivered technical sessions on Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals. Also, contributed in projects/web apps of GDG Jalandhar for the upcoming events."
-        },
-        {
-            "name": "Google Developers Group, Jalandhar",
-            "role": "Event Organizer",
-            "duration": "Oct 2016 – Present",
-            "description": "Organized various tech-talks and events all over Punjab on behalf of GDG Jalandhar and delivered technical sessions on Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals"
-        },
-        {
-            "name": "Women Techmakers, Jalandhar",
-            "role": "Team Member",
-            "duration": "Nov 2016 – Present",
-            "description": "Organized events for “women in technology” all over Punjab Region on behalf of WTM Jalandhar"
+            "role1": "Co-Organizer",
+            "duration1": "Feb 2018 – Present",
+            "description1": "Organized various events all over Punjab on behalf of GDG Jalandhar and delivered technical sessions on Actions on Google, Dialogflow, Firebase, PWA and Web Fundamentals. Also, contributed in projects/web apps of GDG Jalandhar for the upcoming events.",
+            "role2": "Event Organizer",
+            "duration2": "Oct 2016 – Present",
+            "description2": "Volunteered in multiple events and planned the meetups of behlf of GDG Jalandhar."
         }
     ]
 }
