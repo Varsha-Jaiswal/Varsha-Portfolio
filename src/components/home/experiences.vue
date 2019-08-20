@@ -11,8 +11,16 @@
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold text-muted h4-responsive" style="max-height:200">{{ item.name }}</h4>
                             <hr>
-                            <p>{{ item.role }} | {{ item.duration }}</p>
-                            <p>{{ item.description }}</p>
+                            <div v-if="item.role2 && item.duration2">
+                                <p style="color:blue">{{ item.role1 }} | {{ item.duration1 }}</p>
+                                <p>{{ item.description1 }}</p>
+                                <p style="color:blue"> {{ item.role2 }} | {{ item.duration2 }}</p>
+                                <p>{{ item.description2 }}</p>
+                            </div>
+                            <div v-else>
+                                <p style="color:blue">{{ item.role1 }} | {{ item.duration1 }} </p>
+                                <p>{{ item.description1 }}</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -26,8 +34,16 @@
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold text-muted h4-responsive">{{ item.name }}</h4>
                             <hr>
-                            <p>{{ item.role }} | {{ item.duration }}</p>
-                            <p>{{ item.description }}</p>
+                            <div v-if="item.role2 && item.duration2">
+                                <p style="color:blue">{{ item.role1 }} | {{ item.duration1 }}</p>
+                                <p>{{ item.description1 }}</p>
+                                <p style="color:blue">{{ item.role2 }} | {{ item.duration2 }}</p>
+                                <p>{{ item.description2 }}</p>
+                            </div>
+                            <div v-else>
+                                <p style="color:blue">{{ item.role1 }} | {{ item.duration1 }} </p>
+                                <p>{{ item.description1 }}</p>
+                            </div>
                         </div>
                     </div>
                 </div>
