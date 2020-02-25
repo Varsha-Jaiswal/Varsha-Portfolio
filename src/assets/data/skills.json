@@ -8,7 +8,7 @@
         {
             "name":"CSS",
             "image":"https://cdn.worldvectorlogo.com/logos/css3.svg",
-            "rating": "75%"
+            "rating": "70%"
         },
         {
             "name":"JavaScript",
@@ -33,7 +33,7 @@
         {
             "name":"Angular",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
-            "rating": "60%"
+            "rating": "80%"
         },
         {
             "name":"Python",
