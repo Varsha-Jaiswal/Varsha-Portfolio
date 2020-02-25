@@ -19,13 +19,13 @@
         {
             "name": "Facebook",
             "icon": "fab fa-facebook-f",
-            "url": "https://facebook.com/varsha2716",
+            "url": "https://facebook.com/varshajaiswal.27",
             "btnClass": "btn-floating btn-lg btn-fb"
         },
         {
             "name": "Twitter",
             "icon": "fab fa-twitter",
-            "url": "https://twitter.com/varsha2716",
+            "url": "https://twitter.com/_varshajaiswal_",
             "btnClass": "btn-floating btn-lg btn-tw"
         },
         {
@@ -37,7 +37,7 @@
         {
             "name": "LinkedIn",
             "icon": "fab fa-linkedin-in",
-            "url": "https://linkedin.com/in/varsha2716",
+            "url": "https://linkedin.com/in/varshajaiswal",
             "btnClass": "btn-floating btn-lg btn-li"
         },
         {
@@ -79,7 +79,7 @@
         "Delivered session on GitHub Fundamentals on behalf of Mozilla Developers Community, Jalandhar",
         "Tech-Speaker at Facebook Developers Circle, Chandigarh",
         "Student Mentor of C language in Peer to Peer Classes, Lovely Professional University",
-        "Organized 30+ meetups on behalf of GDG and WTM Jalandhar",
+        "Organized 85+ meetups on behalf of GDG and WTM Jalandhar",
         "Attended Machine Learning Study Jam for Machine Learning Crash Course"
     ],
     "seminars": [
