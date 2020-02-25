@@ -1,6 +1,36 @@
 {
     "techtalks": [
         {
+            "title": "Let's talk about Community Programs",
+            "event": "Firebase Study Jam",
+            "link": "https://www.meetup.com/GDG-Chandigarh/events/261473061/",
+            "venue": "NIT Jalandhar",
+            "products": [],
+            "description": "Talked about the various programs by the Google Developers, for the people in different stages.",
+            "organization": "Google Developers Group, Jalandhar",
+            "date": "22-02-2020"
+        },
+        {
+            "title": "Unboxing Progressive Web App (PWA)",
+            "event": "DevFest Nagpur 2019",
+            "link": "https://www.meetup.com/GDG-Nagpur/events/263384390/",
+            "venue": "Persistent Systems Limited, Nagpur",
+            "products": ["Progressive Web Apps"],
+            "description": "Mainly focused on the basic introduction of Progressive Web App along with the hot questions on the topic like, why PWA is needed and is in demand.",
+            "organization": "Google Developers Group, Nagpur",
+            "date": "05-10-2019"
+        },
+        {
+            "title": "#IamRemarkable Workshop",
+            "event": "DevFest Punjab 2019",
+            "link": "https://www.meetup.com/GDG-Jalandhar/events/263546577/",
+            "venue": "The LaLit, Chandigarh",
+            "products": [],
+            "description": "Hosted the workshop on the initiative #IamRemarkable to motivate people by talking about their achievements and accomplishments.",
+            "organization": "Google Developers Group, Jalandhar & Chandigarh",
+            "date": "28-09-2019"
+        },
+        {
             "title": "What's new in Actions On Google",
             "event": "Google I/O'19 Extended",
             "link": "https://www.meetup.com/GDG-Chandigarh/events/261473061/",
