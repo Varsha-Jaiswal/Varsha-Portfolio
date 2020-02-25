@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "name": "IWD Jalandhar App",
+            "year": "2020",
+            "description": "A web application for IWD Jalandhar on behalf of GDG WTM Jalandhar. It is dynamic web application and PWA created in Vue.js and also using HTML, CSS, JavaScript, etc.",
+            "projectUrl": "#"
+        },
+        {
+            "name": "DevFest Punjab Actions",
+            "year": "2019",
+            "description": "Designed the actions for DevFest Punjab using Google Assistant with Dialogflow. The aim of this application is to make the participants aware about the agenda, speakers, sessions, sponsors and many more details about the event through Google Assistant.",
+            "projectUrl": "https://assistant.google.com/services/a/uid/000000a6f27a8909"
+        },
+        {
             "name": "DevFest Punjab App",
             "year": "2019",
             "description": "A web application for DevFest Punjab on behalf of GDG Jalandhar. It is dynamic web application and PWA created in Vue.js and also using HTML, CSS, JavaScript, etc.",
@@ -45,13 +57,13 @@
         {
             "name": "Google Cloud Next'18",
             "year": "2018",
-            "description":" Designed and developed a web application for Cloud Next’18 event on behalf of GDG Jalandhar. It is a dynamic application using Firebase Auth and Firebase Real-time database for participant’s registration. It is a PWA made using HTML5, CSS, JavaScript, Bootstrap, AngularJS and MDG 2.0.",
+            "description": "Designed and developed a web application for Cloud Next’18 event on behalf of GDG Jalandhar. It is a dynamic application using Firebase Auth and Firebase Real-time database for participant’s registration. It is a PWA made using HTML5, CSS, JavaScript, Bootstrap, AngularJS and MDG 2.0.",
             "projectUrl": "https://gdgjalandhar.com/e/next18"
         },
         {
             "name": "Varsha’s Resume Actions",
             "year": "2018",
-            "description": " Designed the actions for My Digital Resume using Google Assistant with Dialogflow. The aim of this application is to make the user aware about the skills, projects, achievements and many more by establishing a direct communication through Google Assistant.",
+            "description": "Designed the actions for My Digital Resume using Google Assistant with Dialogflow. The aim of this application is to make the user aware about the skills, projects, achievements and many more by establishing a direct communication through Google Assistant.",
             "projectUrl": "https://assistant.google.com/services/a/uid/000000b14600931a"
         },
         {
