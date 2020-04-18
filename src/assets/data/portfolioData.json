@@ -14,7 +14,9 @@
         "email": "shaluvarshajaiswal@gmail.com",
         "mobile": "9056630211"
     },
-    "websites": ["https://varsha-jaiswal.github.io"],
+    "websites": [
+        "https://varsha-jaiswal.github.io"
+    ],
     "socialMediaProfiles": [
         {
             "name": "Facebook",
@@ -32,7 +34,7 @@
             "name": "GitHub",
             "icon": "fab fa-github",
             "url": "https://github.com/varsha-jaiswal",
-            "btnClass": "btn-floating btn-lg btn-git"            
+            "btnClass": "btn-floating btn-lg btn-git"
         },
         {
             "name": "LinkedIn",
@@ -62,7 +64,6 @@
             "school-name": "Rani Laxmi Bai Memorial School, Lucknow, Uttar Pradesh",
             "board-name": "CBSE",
             "result": "80%"
-            
         },
         {
             "degree": "X",
@@ -84,16 +85,16 @@
     ],
     "seminars": [
         "Invited to attend India Community Summit, Bengaluru",
-        "Participated in AMP Roadshow, organized by Google, Bengaluru", 
-        "Attended Google Search Summit’18 at Google, Gurugram", 
+        "Participated in AMP Roadshow, organized by Google, Bengaluru",
+        "Attended Google Search Summit’18 at Google, Gurugram",
         "Attended Google Developer Days’17, India"
     ],
     "awards": [
         "Received PyTorch Nanodegree Scholarship from Facebook, 2018",
         "Selected in Top 5 teams out of 20+ teams at Google India Hackathon, conducted in Google Hyderabad, 2018",
         "Secured 6th Position out of 300+ teams at Rajasthan Hackathon 5.0, 2018",
-        "Honoured as “Most Innovative Team” in TIE Hackathon, organized by TIE Chandigarh, 2017", 
-        "First Runner Up out of 25 teams at SAP Hackathon, organized in Lovely Professional University, 2017", 
+        "Honoured as “Most Innovative Team” in TIE Hackathon, organized by TIE Chandigarh, 2017",
+        "First Runner Up out of 25 teams at SAP Hackathon, organized in Lovely Professional University, 2017",
         "Winner at Design Sprint competition, DevFest’15, Women Techmakers, organized by GDG Jalandhar, 2015"
     ],
     "certifications": [

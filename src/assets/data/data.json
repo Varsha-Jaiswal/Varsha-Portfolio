@@ -1,17 +1,16 @@
 {
-    "navbarLinks":[
+    "navbarLinks": [
         {
-            "LinkName":"Home",
-            "Link":"/"
+            "LinkName": "Home",
+            "Link": "/"
         },
         {
-            "LinkName":"Workspace",
-            "Link":"/workspace"
+            "LinkName": "Workspace",
+            "Link": "/workspace"
         },
         {
-            "LinkName":"About",
-            "Link":"/about"
+            "LinkName": "About",
+            "Link": "/about"
         }
-        
     ]
 }

@@ -4,7 +4,7 @@
             "name": "IWD Jalandhar App",
             "year": "2020",
             "description": "A web application for IWD Jalandhar on behalf of GDG WTM Jalandhar. It is dynamic web application and PWA created in Vue.js and also using HTML, CSS, JavaScript, etc.",
-            "projectUrl": "#"
+            "projectUrl": "https://iwd-jalandhar.web.app/"
         },
         {
             "name": "DevFest Punjab Actions",

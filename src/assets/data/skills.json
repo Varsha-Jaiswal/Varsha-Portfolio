@@ -1,103 +1,108 @@
 {
     "skills": [
         {
-            "name":"HTML",
-            "image":"https://cdn.worldvectorlogo.com/logos/html-5.svg",
+            "name": "HTML",
+            "image": "https://cdn.worldvectorlogo.com/logos/html-5.svg",
+            "rating": "90%"
+        },
+        {
+            "name": "CSS",
+            "image": "https://cdn.worldvectorlogo.com/logos/css3.svg",
             "rating": "85%"
         },
         {
-            "name":"CSS",
-            "image":"https://cdn.worldvectorlogo.com/logos/css3.svg",
-            "rating": "70%"
+            "name": "JavaScript",
+            "image": "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg",
+            "rating": "90%"
         },
         {
-            "name":"JavaScript",
-            "image":"https://cdn.worldvectorlogo.com/logos/logo-javascript.svg",
-            "rating": "88%"
-        },
-        {
-            "name":"Bootstrap",
-            "image":"https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
+            "name": "Bootstrap",
+            "image": "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
             "rating": "95%"
         },
         {
-            "name":"ES6",
-            "image":"",
+            "name": "ES6",
+            "image": "",
+            "rating": "90%"
+        },
+        {
+            "name": "Vue.js",
+            "image": "https://cdn.worldvectorlogo.com/logos/vue-9.svg",
             "rating": "80%"
         },
         {
-            "name":"Vue.js",
-            "image":"https://cdn.worldvectorlogo.com/logos/vue-9.svg",
-            "rating": "75%"
+            "name": "TypeScript",
+            "image": "https://www.edureka.co/blog/wp-content/uploads/2019/11/typescript-logo-528x194.png",
+            "rating": "85%"
         },
         {
-            "name":"Angular",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
-            "rating": "80%"
+            "name": "Angular",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+            "rating": "90%"
         },
         {
-            "name":"Python",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+            "name": "Python",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
             "rating": "80%"
         },
         {
             "name": "ReactJS",
             "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
-            "rating": "65%"
+            "rating": "70%"
         },
         {
-            "name":"C++",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/140px-ISO_C%2B%2B_Logo.svg.png",
+            "name": "C++",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/140px-ISO_C%2B%2B_Logo.svg.png",
             "rating": "83%"
         },
         {
-            "name":"C",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png",
-            "rating": "90%"
+            "name": "C",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png",
+            "rating": "93%"
         },
         {
-            "name":"MySql",
-            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1920px-MySQL.svg.png",
+            "name": "MySql",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1920px-MySQL.svg.png",
             "rating": "70%"
         },
         {
-            "name":"DynamoDB",
-            "image":"https://cdn-images-1.medium.com/max/1200/1*qp3u7D_FkGlFeBPUx7hcLg.png",
+            "name": "DynamoDB",
+            "image": "https://cdn-images-1.medium.com/max/1200/1*qp3u7D_FkGlFeBPUx7hcLg.png",
             "rating": "60%"
         },
         {
-            "name":"Django",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png",
+            "name": "Django",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png",
             "rating": "63%"
         },
         {
-            "name":"Actions on Google",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
+            "name": "Actions on Google",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
             "rating": "95%"
         },
         {
-            "name":"Dialogflow",
-            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1280px-Dialogflow_logo.svg.png",
+            "name": "Dialogflow",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1280px-Dialogflow_logo.svg.png",
             "rating": "80%"
         },
         {
-            "name":"Firebase",
-            "image":"https://cdn.worldvectorlogo.com/logos/firebase-2.svg",
+            "name": "Firebase",
+            "image": "https://cdn.worldvectorlogo.com/logos/firebase-2.svg",
             "rating": "70%"
         },
         {
-            "name":"PynamoDB",
-            "image":"",
+            "name": "PynamoDB",
+            "image": "",
             "rating": "40%"
         },
         {
-            "name":"Drupal",
-            "image":"https://www.drupal.org/files/drupal%208%20logo%20Stacked%20CMYK%20300.png",
+            "name": "Drupal",
+            "image": "https://www.drupal.org/files/drupal%208%20logo%20Stacked%20CMYK%20300.png",
             "rating": "50%"
         },
         {
-            "name":"GitHub",
-            "image":"https://cdn.worldvectorlogo.com/logos/github-icon-1.svg",
+            "name": "GitHub",
+            "image": "https://cdn.worldvectorlogo.com/logos/github-icon-1.svg",
             "rating": "65%"
         }
     ]
